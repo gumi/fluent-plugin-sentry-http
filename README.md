@@ -2,8 +2,8 @@
 
 [fluentd](http://fluentd.org) input plugin that receive exceptions from [Sentry Clients](https://github.com/getsentry).
 
-[![Build Status](https://travis-ci.org/cooldaemon/fluent-plugin-sentry-http.svg?branch=master)](https://travis-ci.org/cooldaemon/fluent-plugin-sentry-http)
-[![Code Climate](https://codeclimate.com/github/cooldaemon/fluent-plugin-sentry-http/badges/gpa.svg)](https://codeclimate.com/github/cooldaemon/fluent-plugin-sentry-http)
+[![Build Status](https://travis-ci.org/gumi/fluent-plugin-sentry-http.svg?branch=master)](https://travis-ci.org/gumi/fluent-plugin-sentry-http)
+[![Code Climate](https://codeclimate.com/github/gumi/fluent-plugin-sentry-http/badges/gpa.svg)](https://codeclimate.com/github/gumi/fluent-plugin-sentry-http)
 
 ## Installation
 
@@ -41,6 +41,6 @@ Plugin to accept exception input from [Sentry Clients](https://github.com/getsen
 ## Copyright
 
 - Copyright
-  - Copyright(C) 2015- IKUTA Masahito (cooldaemon)
+  - Copyright (C) 2016- gumi Inc.
 - License
   - Apache License, Version 2.0
