@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "fluent-plugin-sentry-http"
   spec.version       = Fluent::Plugin::SentryHttp::VERSION
   spec.authors       = ["IKUTA Masahito"]
-  spec.email         = ["cooldaemon@gmail.com"]
+  spec.email         = ["masahito.ikuta@gu3.co.jp"]
   spec.summary       = %q{Fluentd input plugin that receive exceptions from the Sentry clients(Raven).}
   spec.description   = spec.summary
-  spec.homepage      = "http://github.com/cooldaemon/fluent-plugin-sentry-http"
+  spec.homepage      = "http://github.com/gumi/fluent-plugin-sentry-http"
   spec.license       = "APLv2"
 
   spec.files         = `git ls-files -z`.split("\x0")
